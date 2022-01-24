@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 
 """
-@author: krakowiakpawel9@gmail.com
-@site: e-smartdata.org
+@author: Dariusz Koncewicz
+@ email: d.koncewicz@sdacademy.pl
+@site: www.dariuszkoncewicz.pl
 """
 
 raw_data = '345!23!3234!43434'
